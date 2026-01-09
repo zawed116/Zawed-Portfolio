@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+:root {
+  /* Light Mode */
+  --background: 255 255 255;          /* white */
+  --surface: 245 247 250;             /* light gray */
+  --foreground: 17 24 39;             /* slate-900 */
+  --muted: 75 85 99;                  /* gray-600 */
+  --primary: 79 70 229;               /* indigo-600 */
+  --secondary: 6 182 212;             /* cyan-500 */
+  --border: 229 231 235;
+  --page-bg: #0b0f19;
+}
+
+.dark {
+  /* Dark Mode */
+  --background: 3 7 18;               /* slate-950 */
+  --surface: 2 6 23;                  /* deep surface */
+  --foreground: 226 232 240;          /* slate-200 */
+  --muted: 148 163 184;               /* slate-400 */
+  --primary: 99 102 241;              /* indigo-500 */
+  --secondary: 34 211 238;            /* cyan-400 */
+  --border: 30 41 59;
+}
+
+/* ---------- BASE ---------- */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+   background-color: rgb(var(--background));
+  color: rgb(var(--foreground));
+  transition: background-color 0.8s ease;
+}
