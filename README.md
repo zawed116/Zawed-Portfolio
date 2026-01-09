@@ -1,4 +1,4 @@
-# 🚀 Amarjeet Kumar – Full Stack Developer Portfolio
+# 🚀 Zawed Akhter – Full Stack Developer Portfolio
 
 A modern, animated, fully responsive developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
 Designed to showcase skills, experience, projects, and achievements in a recruiter-friendly and performance-optimized way.
@@ -6,7 +6,7 @@ Designed to showcase skills, experience, projects, and achievements in a recruit
 ---
 
 ## 🌐 Live Demo
-🔗 https://personal-portfolio-psi-one-64.vercel.app/
+🔗 https://vercel.com/zawed-akhters-projects
 
 ---
 
